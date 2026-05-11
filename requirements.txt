@@ -1,0 +1,19 @@
+# Data processing and computation
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine Learning and Evaluation
+scikit-learn
+xgboost
+lightgbm
+
+# Notebook management and utilities
+ipykernel
+jupyter
+nbformat
+pyarrow
+fastparquet
