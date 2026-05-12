@@ -72,10 +72,8 @@ Constructed a comprehensive feature matrix consisting of:
     pip install -r requirements.txt
     ```
 3.  **Data Placement:**
-    Download the dataset from [Kaggle](https://www.kaggle.com/c/instacart-market-basket-analysis/data) and place the CSV files in `data/raw/`.
+    Download the dataset from [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) and place the CSV files in `data/raw/`.
 
 4.  **Execution Order:**
-    Run the notebooks in numerical order (`01` to `05`).
+    The pipeline is intentionally modularized into 5 sequential notebooks for clarity and reproducibility. Run them in numerical order (`01` to `05`) for a complete end-to-end execution.
 
----
-*Created as part of an Advanced Data Science Project.*
